@@ -1,0 +1,43 @@
+# Compiled binaries and object files
+*.o
+*.exe
+*.out
+*.app
+
+# Debug information
+*.dSYM/
+*.su
+*.i*86
+*.x86_64
+*.hex
+
+# Libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Build artifacts
+*.d
+*.log
+build/
+dist/
+.cache/
+
+# IDE and editor files
+.vscode/
+.DS_Store
+*~
+*.swp
+*.swo
+
+# Testing and coverage
+*.gcda
+*.gcno
+*.gcov
+*.core
+
+# Executables (add specific names if needed)
+simple_repl
