@@ -40,4 +40,5 @@ dist/
 *.core
 
 # Executables (add specific names if needed)
-simple_repl
+simple-db
+test
